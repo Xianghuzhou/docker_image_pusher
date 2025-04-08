@@ -22,6 +22,7 @@ seataio/seata-server:latest
 #registry.cn-hangzhou.aliyuncs.com/siques-public/sentinel:1.8.1
 zookeeper
 zhayujie/chatgpt-on-wechat
+dannicool/docker-wechatbot-webhook
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
