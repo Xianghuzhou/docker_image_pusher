@@ -19,7 +19,7 @@ foxiswho/rocketmq:server
 foxiswho/rocketmq:broker
 styletang/rocketmq-console-ng
 seataio/seata-server:latest
-registry.cn-hangzhou.aliyuncs.com/siques-public/sentinel:1.8.1
+#registry.cn-hangzhou.aliyuncs.com/siques-public/sentinel:1.8.1
 zookeeper
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
