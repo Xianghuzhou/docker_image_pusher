@@ -30,3 +30,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 registry.fit2cloud.com/maxkb/maxkb
+docker.n8n.io/n8nio/n8n
