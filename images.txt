@@ -29,6 +29,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-registry.fit2cloud.com/maxkb/maxkb
-docker.n8n.io/n8nio/n8n
+#registry.fit2cloud.com/maxkb/maxkb
+#docker.n8n.io/n8nio/n8n
 higress-registry.cn-hangzhou.cr.aliyuncs.com/higress/all-in-one:latest
