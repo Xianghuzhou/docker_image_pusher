@@ -39,7 +39,8 @@
 #minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
 #bitnami/etcd:3.5
 #milvusdb/milvus:v2.5.10
-python:3.12-slim
+#python:3.12-slim
 #nsqio/nsq:v1.2.1
+apache/dolphinscheduler-standalone-server
 #opencoze/opencoze:latest
 #opencoze/web:latest
