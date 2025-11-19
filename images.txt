@@ -44,5 +44,6 @@
 #apache/dolphinscheduler-standalone-server
 #opencoze/opencoze:latest
 #opencoze/web:latest
-mlikiowa/napcat-docker:latest
-soulter/astrbot:latest
+#mlikiowa/napcat-docker:latest
+#soulter/astrbot:latest
+wechatpadpro/wechatpadpro
