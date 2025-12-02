@@ -47,4 +47,5 @@
 #mlikiowa/napcat-docker:latest
 #soulter/astrbot:latest
 #wechatpadpro/wechatpadpro
-kestra/kestra:latest
+#kestra/kestra:latest
+1panel/cordys-crm
