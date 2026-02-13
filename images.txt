@@ -49,4 +49,5 @@
 #wechatpadpro/wechatpadpro
 #kestra/kestra:latest
 #1panel/cordys-crm
-python:3.11-slim
+#python:3.11-slim
+node:22-trixie
