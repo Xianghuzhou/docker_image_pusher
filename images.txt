@@ -51,4 +51,5 @@
 #1panel/cordys-crm
 #python:3.11-slim
 #node:22-trixie
-openclaw/openclaw:latest
+#openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:latest
